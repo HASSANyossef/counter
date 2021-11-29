@@ -35,3 +35,45 @@ btns.forEach(function (temp){
         number.textContent = count;
     })
 })
+// let decrease = document.querySelector(".decrease");
+// let increase = document.querySelector(".increase");
+// let reset = document.querySelector(".reset");
+
+// decrease.addEventListener("click", function ()
+// {
+//     count--;
+//     number.textContent = count;
+//     if (count < 0)
+//     {
+//         number.style.color = "red";
+//     }
+//     else if (count == 0)
+//     {
+//         number.style.color = "#222";
+//     }
+// })
+
+// increase.addEventListener("click", function ()
+// {
+//     count++;
+//     number.textContent = count;
+//     if (count > 0)
+//     {
+//         number.style.color = "green";
+//     }
+//     else if (count == 0)
+//     {
+//         number.style.color = "#222";
+//     }
+// })
+// reset.addEventListener("click", function ()
+// {
+//     count = 0;
+//     number.textContent = count;
+//     if (count == 0)
+//     {
+//         number.style.color = "#222";
+//     }
+// })
+
+
